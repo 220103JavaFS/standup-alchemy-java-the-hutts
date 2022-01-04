@@ -4,4 +4,5 @@ This is your team repository for holding standup notes and other team wide infor
 Jaehyun Lewis
 Michael Ludwig
 Jeong Kim
+Xiong Thao
 Han Gyul Park
