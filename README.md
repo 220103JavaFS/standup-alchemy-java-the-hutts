@@ -1,9 +1,9 @@
 # Standup
 
-This is your team repository for holding standup notes and other team wide information. 
-Jaehyun Lewis
-Michael Ludwig
-Jeong Kim
-Xiong Thao
-Jeremiah Weaver
+This is your team repository for holding standup notes and other team wide information. <br>
+Jaehyun Lewis<br>
+Michael Ludwig<br>
+Jeong Kim<br>
+Xiong Thao<br>
+Jeremiah Weaver<br>
 Han Gyul Park
