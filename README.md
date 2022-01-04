@@ -5,3 +5,4 @@ Jaehyun Lewis
 Michael Ludwig
 Jeong Kim
 Xiong Thao
+Jeremiah Weaver
