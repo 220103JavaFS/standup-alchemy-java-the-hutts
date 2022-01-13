@@ -82,6 +82,7 @@ Today we learned about SQL and the different dialects we also had some time to i
 >
 
 ### Jeremiah Weaver 
+Today we went even further in depth on SQL writing Joins, Subqueries, Set Operations, Scalar and Aggregate Functions as well as learning about Cardnality and Normalization.  We also looked at those in Demos to better understand what they look like syntaxically. 
 >
 
 ### Han Gyul Park 
